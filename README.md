@@ -1,0 +1,2 @@
+# tsAdmin
+Adminpage for Teamspeak
